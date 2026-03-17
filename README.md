@@ -15,6 +15,7 @@ To make this work on your computer, you'll need a few things:
 
 Python: Make sure you have Python installed (version 3.x is best).
 
+
 A Microphone: The script needs something to listen with!
 
 Once you have Python, open your terminal and install the required libraries. This project uses TensorFlow Lite, NumPy, and Sounddevice for audio input.
